@@ -1,0 +1,44 @@
+.box{
+    display:inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-width: 5px;
+    border-color: brown;
+    border-radius: 5%;
+    border-style: solid;
+    padding-left: 2%;
+    margin-top: 20px;
+}
+#b1{
+    /* visibility: hidden; */
+    /* display: none; */
+   
+    /* height: 100vh;
+    width:100vw; */
+    /* position:relative;
+    top: 20px;
+    left: 30px;
+    z-index:-1;
+     */
+     /* position: absolute;
+     top: 30px; */
+
+
+     /* position: fixed;
+     right:70px;
+     top: 20px; */
+     background-image: url("bappa.jpg");
+     background-size: contain;
+
+     height:50vh;
+     width: 50vw;
+
+}
+body{
+  
+    
+}
+
+
+

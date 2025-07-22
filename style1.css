@@ -1,0 +1,57 @@
+h1{
+    color: rgb(104, 7, 90);
+}
+input{
+    color: #ff0000;
+    background-color: yellow;
+}
+#heading1 {
+    color: #ce2b2b;
+
+}
+button{
+    color: rgb(135, 9, 203);
+    background-color: rgb(255, 163, 163);
+}
+.myclass{
+    color :navy
+}
+#box {
+    background-color: chartreuse;
+
+}
+.headings{
+color: darkorange;
+}
+
+#but{
+    color: #094c57;
+    background-color: #ff0000;
+}
+#talign {
+    h1{ text-decoration:underline
+
+    }
+    color: #0e70e0;
+    text-decoration: rgb(94, 255, 0) underline;
+     text-align:center;
+}
+
+
+
+#ace{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size:xx-large;
+    color:rgba(192, 98, 11, 0.954);
+   text-transform: uppercase;
+}
+body{
+/* font-style: oblique; */
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+/*     *{
+    /* it can also used the select all text in the html page for changing fond 
+} */ 

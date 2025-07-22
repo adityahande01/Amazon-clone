@@ -1,0 +1,37 @@
+#outer{
+        height: 500px;
+        width: 500px;
+        background-color: blueviolet;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+#inner{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+    @media (max-width:700px ){
+        #inner{
+            background-color: rgb(201, 212, 42);
+        }
+    }
+        @media (max-width:700px ){
+            #outer{
+                background-color: rgb(227, 25, 25);
+            }
+    }
+    @media(min-width:700px ) and (max-width:1100px){
+       #outer{
+      background-color: rgb(146, 146, 170);
+}
+    }
+
+    @media(min-width:700px ) and (max-width:1100px){
+        #inner{
+       background-color: rgb(66, 8, 59);
+ }
+     }
+

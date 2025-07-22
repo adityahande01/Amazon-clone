@@ -1,0 +1,67 @@
+#amazon{
+    background-color:black;
+    height: 60px;
+    color: azure; 
+}
+
+#a1{
+    color: rgb(255, 149, 0);
+    font-size: xx-large;
+}
+button{
+    background-color: rgb(255, 157, 0);
+}
+a{
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    text-align: center;
+    background-color: rgb(188, 241, 241);
+    height: 150px; 
+    width: 450px;
+    border-width: 10px;
+    border-color: rgb(44, 168, 30);
+    border-style: solid;
+    text-align: center;
+    border-radius: 20%;
+    padding-top: 75px; 
+    color: rgb(17, 11, 211);
+    margin-top: 5cap;
+    margin-bottom: 5cap;
+} */
+h1{
+    color: rgb(154, 22, 22);
+    background-color: chartreuse;
+    text-align: center;
+    height: 50px;
+    width: 350px;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-style: dashed;
+   
+/* using border short hand method  ### THIS FUNCTION COME LATER THATS WHY IT GET EXECUTED ON THE MAIN WEB PAGE */
+    border:5px dashed cornflowerblue;
+
+    border-radius: 15px;
+}
+/* #pd{
+    background-color: rgb(255, 242, 98);
+    border:10px dotted rgb(255, 0, 0);
+     padding: 60px 1px 1px 1px;
+     margin-left: 50cap ;
+*/
+
+
+
+
